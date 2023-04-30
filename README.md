@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]. I'm a Mechatronics and AI engineering student with a passion for Robotics and Autonomous Systems.
+👋 Hi, I'm DivvikAI. I'm a Mechatronics and AI engineering student with a passion for Robotics and Autonomous Systems.
 
 👀 I'm interested in Robotics, AI, Autonomous Systems, and Open Source Projects.
 
